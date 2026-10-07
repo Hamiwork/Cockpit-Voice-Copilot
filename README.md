@@ -6,7 +6,9 @@ AI Cockpit Voice Optimization Copilot
 **AI Product Interactive Prototype · Interactive Mock AI Prototype**  
 **Demo data / Mock AI output · 未连接真实生产系统**
 
-**Live Demo：TODO — GitHub Pages 开启后，在这里粘贴实际访问链接。**  
+🌟🌟🌟【演示Demo入口】
+[🌐 Live Demo](https://hamiwork.github.io/Cockpit-Voice-Copilot/)  
+
 [本地演示入口](index.html) · [示例 Excel](examples/semantic-customization-passenger-window-demo.xlsx)
 
 | | 项目定位 |
