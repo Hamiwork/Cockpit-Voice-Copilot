@@ -1,0 +1,10 @@
+{
+  "name": "ai-cockpit-voice-optimization-demo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Interactive Mock AI prototype for cockpit voice PMs: feedback review, evidence-backed issues, and utterance generalization.",
+  "scripts": {
+    "start": "node dev-tools/serve.cjs",
+    "test": "node dev-tests/business-checks.cjs"
+  }
+}
